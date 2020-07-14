@@ -1,2 +1,2 @@
-# birthdayyy.githuv.io
+# birthdayyy.github.io
 Website for a birthday
